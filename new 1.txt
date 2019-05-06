@@ -1,0 +1,11 @@
+- PnP 1.0a, DMI 2.7, WfM 2.0, SM BIOS 2.7, ACPI 5.0<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cad_aluno</title>
+</head>
+<body>
+Nome do aluno: wesley martins RA: 916203367!
+daata de nascimento: 30/05/96
+</body>
+</html>
